@@ -1,0 +1,1 @@
+A landing page for an imaginary subscription based application called AVID that teaches english reading literacy to EFL -- i.e. engilsh as a foreign language -- students. 
